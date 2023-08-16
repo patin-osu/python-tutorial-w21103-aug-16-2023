@@ -1,2 +1,2 @@
-# Python tutorial with teacher _Pratoomporn Anusith_ (Interesting name)
+# PyThoN cLaSs WiTh CoMpUtEr TeAcHeR
 Another Wednesday, another Python coding action with the Computer teacher
