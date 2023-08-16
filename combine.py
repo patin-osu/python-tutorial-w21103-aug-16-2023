@@ -1,4 +1,4 @@
-school = input("ชื่ิอโรงเรียน ")
+school = input("ชื่อโรงเรียน: ")
 print(school)
 
 age = int(input("อายุโรงเรียน: "))
