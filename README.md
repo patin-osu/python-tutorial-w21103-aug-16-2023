@@ -1,2 +1,2 @@
-# python-tutorial-w21103-aug-16-2023
-Another wednesday, another python coding action with Computer teacher
+# Python tutorial with teacher **Pratoomporn Anusith** (Interesting name)
+Another Wednesday, another Python coding action with the Computer teacher
